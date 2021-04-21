@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<personajes>
+  <personaje nombre="dora" descripcion="exploradora" />
+  <personaje nombre="Princesa" descripcion="de frozen" />
+  <personaje nombre="pepe" descripcion="papa" />
+  <personaje nombre="Pepe" descripcion="popo" />
+</personajes>
